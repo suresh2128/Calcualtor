@@ -1,9 +1,9 @@
-Dark Theme Calculator
+# Dark Theme Calculator
 
-Overview
+### Overview
 This project is a modern, dark-themed calculator application featuring a sleek and minimalistic design. The UI is intuitive and aesthetically pleasing, built to provide a smooth user experience for performing basic arithmetic operations.
 
-Features
+### Features
  -Responsive dark mode interface
 
  -Basic arithmetic operations: Addition (+), Subtraction (-), Multiplication (×), and Division (÷)
@@ -20,7 +20,7 @@ Features
 
  -Gradient background for an enhanced visual effect
 
-Technologies Used
+### Technologies Used
  -HTML5
 
  -CSS3 (Flexbox, gradients, neumorphism)
@@ -28,5 +28,5 @@ Technologies Used
  -JavaScript (for calculator logic)
 
 
- Screenshots
+ ### Screenshots
  ![image](https://github.com/user-attachments/assets/44ba4e7f-b645-443c-b6c6-97272d5e721b)
